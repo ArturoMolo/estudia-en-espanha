@@ -12,6 +12,7 @@
         width:100%; /*Tanto en escritorio como en dispositivos móviles. a veces lo que no abarca el 100% es la etiqueta ul no el width del header*/
     }
     header nav{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         max-width:1000px;
         margin:1.25rem auto;
         background:#000;
